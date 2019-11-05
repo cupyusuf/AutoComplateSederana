@@ -1,0 +1,5 @@
+<resources>
+    <string name="Hello">Hallo World, autoComplete</string>
+    <string name="app_name">Membuat teks AutoComplete</string>
+    <string name="perintah">Masukan Minimal 3 Huruf</string>
+</resources>
